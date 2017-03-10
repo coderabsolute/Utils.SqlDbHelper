@@ -1,0 +1,10 @@
+C:\TEMP\Utils.SqlDbHelper\Utils.SqlDbHelper\bin\Debug\Utils.SqlDbHelper.dll
+C:\TEMP\Utils.SqlDbHelper\Utils.SqlDbHelper\bin\Debug\Utils.SqlDbHelper.pdb
+C:\TEMP\Utils.SqlDbHelper\Utils.SqlDbHelper\obj\Debug\Utils.SqlDbHelper.csprojResolveAssemblyReference.cache
+C:\TEMP\Utils.SqlDbHelper\Utils.SqlDbHelper\obj\Debug\Utils.SqlDbHelper.dll
+C:\TEMP\Utils.SqlDbHelper\Utils.SqlDbHelper\obj\Debug\Utils.SqlDbHelper.pdb
+C:\TEMP\Utils.SqlDbHelper\Utils.SqlDbHelper\bin\Debug\Dapper.dll
+C:\TEMP\Utils.SqlDbHelper\Utils.SqlDbHelper\bin\Debug\Dapper.SimpleCRUD.dll
+C:\TEMP\Utils.SqlDbHelper\Utils.SqlDbHelper\bin\Debug\Dapper.xml
+C:\TEMP\Utils.SqlDbHelper\Utils.SqlDbHelper\bin\Debug\Dapper.SimpleCRUD.pdb
+C:\TEMP\Utils.SqlDbHelper\Utils.SqlDbHelper\bin\Debug\Dapper.SimpleCRUD.xml
